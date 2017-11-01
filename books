@@ -1,0 +1,39 @@
+
+{
+"_id": "59f8cfd9b25752f28e6b5b92",
+"id": "1",
+"titulo": "introduccion a mongo",
+"autor": "mongolicos",
+"paginas": "1025"
+},
+{
+"_id": "59f8d079b25752f28e6b5b93",
+"id": "2",
+"titulo": "historia colombiana",
+"autor": "history chanel",
+"paginas": "12"
+},
+{
+"_id": "59f8f3795c42d9188c73eba6",
+"__v": 0
+},
+{
+"_id": "59f8f3915c42d9188c73eba7",
+"__v": 0
+},
+{
+"_id": "59f8f3de5c42d9188c73eba8",
+"__v": 0
+},
+{
+"_id": "59f8f4285c42d9188c73eba9",
+"__v": 0
+},
+{
+"_id": "59f8f4d97b5e5c163086100c",
+"titulo": "halo",
+"autor": "halo5",
+"paginas": "no hay",
+"__v": 0
+}
+]
